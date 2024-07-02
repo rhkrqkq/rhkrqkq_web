@@ -1,1 +1,1 @@
-# rhkrqkq_web
+# spring_web_study
